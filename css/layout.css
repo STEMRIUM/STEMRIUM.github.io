@@ -100,7 +100,7 @@ header .header-social li {
    margin-right: 20px;
 }
 header .header-social li a { color: #fff; }
-header .header-social li a:hover { color: #11ABB0; }
+header .header-social li a:hover { color: #5a78fc; }
 
 /* primary navigation
 --------------------------------------------------------------------- */
@@ -198,7 +198,7 @@ ul#nav li.current a { color: #fff; }
    text-shadow: 0px 1px 4px rgba(0, 0, 0, .2);
 }
 .hero-text h1 span,
-.hero-text a { color: #11ABB0; }
+.hero-text a { color: #5a78fc; }
 .hero-text p {
    font: 16px/30px 'opensans-regular', sans-serif;
    padding: 0;
@@ -227,7 +227,7 @@ ul#nav li.current a { color: #fff; }
    letter-spacing: 2px;
 }
 #hero .buttons .trial {
-   background: #f64b39;
+   background: #5271ff;
    margin-right: 30px;
 
    -webkit-animation-delay: 10s;
@@ -237,7 +237,7 @@ ul#nav li.current a { color: #fff; }
    -webkit-animation-iteration-count: 3;
       -moz-animation-iteration-count: 3;  
 }
-#hero .buttons .trial:hover { background: #F86A5A; }
+#hero .buttons .trial:hover { background: #5a78fc; }
 #hero .buttons .learn-more {}
 
 
@@ -675,7 +675,7 @@ ul.about li:nth-child(even) { }
 }
 
 #subscribe a, #subscribe a:visited  { color: #fff; }
-#subscribe a:hover, #subscribe a:focus { color: #11ABB0; }
+#subscribe a:hover, #subscribe a:focus { color: #fff; }
 
 #subscribe h1 { color: #fff; }
 #subscribe p {
@@ -737,7 +737,7 @@ footer {
    position: relative;   
 }
 
-footer a, footer a:visited { color: #0A6567; }
+footer a, footer a:visited { color: #5a78fc; }
 footer a:hover, footer a:focus { color: #fff; }
 
 footer .info { padding-right: 90px; }
@@ -829,7 +829,7 @@ footer .copyright {
    line-height: 60px;
  	border-radius: 100%;
 }
-#go-top a:hover { background: #0F9095; }
+#go-top a:hover { background: #5a78fc; }
 
 
 /* ------------------------------------------------------------------ */
@@ -928,7 +928,7 @@ footer .copyright {
 	box-shadow: 0 0 2.5em rgba( 0, 0, 0, .5 ); /* 40 */
 }
 a#imagelightbox-close { color: #333; }
-a#imagelightbox-close:hover, a#imagelightbox-close:focus { color: #11ABB0; }
+a#imagelightbox-close:hover, a#imagelightbox-close:focus { color: #5a78fc; }
 
 /* lightbox caption */
 #imagelightbox-caption {
