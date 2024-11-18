@@ -507,8 +507,8 @@ ul.about li:nth-child(even) { }
 /* h. Testimonials
 /* ------------------------------------------------------------------ */
 
-#testimonials {
-   background: #10999E url(img/escheresque.png);
+#team {
+   background: #5a78fc url(img/hero-bg.png);
    padding-top: 112px;
    padding-bottom: 66px;
    position: relative;
@@ -523,44 +523,44 @@ ul.about li:nth-child(even) { }
 (-webkit-min-device-pixel-ratio: 2),
 (min-resolution: 192dpi) {
 
-	#testimonials {
-		background: #10999E url(img/escheresque_@2X.png);
+	#team {
+		background: #5a78fc url(img/hero-bg_@2X.png);
 		background-size: 46px 29px;
 	}
   
 }
 
-#testimonials .quote-left, 
-#testimonials .quote-right {
+#team .quote-left, 
+#team .quote-right {
    position: absolute;
    top: 50%;
    color: #fff;
    font-size: 40px;
    margin-top: -25px;
 }
-#testimonials .quote-left { left: 5%; }
-#testimonials .quote-right { right: 5%; }
+#team .quote-left { left: 5%; }
+#team .quote-right { right: 5%; }
 
-#testimonials .text-container {
+#team .text-container {
    width: 86%;
    margin: 0 auto;
 }
-#testimonials h1 {
+#team h1 {
    font: 16px/24px 'montserrat-bold', sans-serif;
-   color: #6AECF0;
+   color: #5a78fc;
    text-transform: uppercase;
    letter-spacing: 2px;   
    margin-bottom: 36px;
 }
 
 /*	Blockquotes */
-#testimonials blockquote {
-   margin: 0 0px 30px 0px;
+#team blockquote {
+   margin: 0 0px 40px 0px;
    padding-left: 0;
    position: relative;   
 }
-#testimonials blockquote:before { content: none; }
-#testimonials blockquote p {
+#team blockquote:before { content: none; }
+#team blockquote p {
    font-family: 'opensans-semibold', sans-serif;
    font-style: normal;
    color: #fff;
@@ -568,16 +568,16 @@ ul.about li:nth-child(even) { }
    font-size: 26px;
    line-height: 42px;   
 }
-#testimonials blockquote cite {
+#team blockquote cite {
    display: block;
    font-size: 12px;
    font-style: normal;
    line-height: 18px;
    color: #fff;
 }
-#testimonials blockquote cite:before { content: "\2014 \0020"; }
-#testimonials blockquote cite a,
-#testimonials blockquote cite a:visited { color: #8B9798; border: none }
+#team blockquote cite:before { content: "\2014 \0020"; }
+#team blockquote cite a,
+#team blockquote cite a:visited { color: #8B9798; border: none }
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
