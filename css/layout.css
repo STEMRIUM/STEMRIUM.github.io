@@ -508,7 +508,7 @@ ul.about li:nth-child(even) { }
 /* ------------------------------------------------------------------ */
 
 #team {
-   background: #5a78fc url(img/hero-bg.png);
+   background:  url(img/hero-bg.png);
    padding-top: 112px;
    padding-bottom: 66px;
    position: relative;
@@ -524,7 +524,7 @@ ul.about li:nth-child(even) { }
 (min-resolution: 192dpi) {
 
 	#team {
-		background: #5a78fc url(img/hero-bg_@2X.png);
+		background: url(img/hero-bg_@2X.png);
 		background-size: 46px 29px;
 	}
   
